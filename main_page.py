@@ -1,5 +1,5 @@
 import streamlit as st
-from data_driver import player2vec_data
+
 
 # App Config
 st.set_page_config(
