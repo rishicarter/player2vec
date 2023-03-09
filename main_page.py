@@ -21,7 +21,7 @@ def display_similar_players(selected_similar_players):
     return text
 
 # App Info
-st.title('Player2Vec: Analysing Soccer Players\' Playing Style using DL')
+st.title('_Player2Vec: Analysing Soccer Players\' Playing Style using DL_')
 st.markdown('Analysing 4000+ soccer players\' playing styles using Convolutional Autoencoder \
            and compressing player data from 2000 matches, using WYSCOUT open-source dataset, into a player vector called Player2Vec.')
 st.caption('### :red[Check out my Thesis write up here] - [LINK](https://github.com/rishicarter/MScProject_SOTON/blob/main/RishiAluri_Dissertation.pdf)')
